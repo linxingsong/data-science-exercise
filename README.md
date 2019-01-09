@@ -1,6 +1,6 @@
 # data science exercise
 
-open jupyter file to see .
+open jupyter .ipyne file to see .
 
 1. UsState
 
